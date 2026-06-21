@@ -51,4 +51,3 @@ Projet de stage portant sur l’implémentation du format **CSR (Compressed Spar
 ## Contexte
 
 Stage de Master 1 — Calcul Haute Performance et Simulation
-
